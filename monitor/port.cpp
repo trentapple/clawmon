@@ -580,9 +580,6 @@ DWORD CPort::CreateOutputFile()
 		}
 
 		//is this file name usable?
-		//2009-08-04 we use search strings
-//		if (!m_bOverwrite && FileExists(m_szFileName))
-		/* moment A */
 		if (!m_bOverwrite && FilePatternExists(szSearchPath))
 			continue;
 
