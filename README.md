@@ -11,3 +11,8 @@ Printer port monitor // print to file with automatic filename assignment
 
 # Screenshot #
 ![clawmonui](docs/images/clawmonui.png?raw=true "clawmonui")
+
+# License #
+Copyright (C) 2019 // Andrew Hess // clawSoft
+
+Copyright (C) 2007-2015 Monti Lorenzo
