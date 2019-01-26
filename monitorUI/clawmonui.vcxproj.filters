@@ -67,9 +67,6 @@
     <None Include="strings.en">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="strings.it">
-      <Filter>Resource Files</Filter>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="resource.rc">

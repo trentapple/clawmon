@@ -220,7 +220,6 @@
     <None Include="..\common\comstrings.en" />
     <None Include="..\common\comstrings.it" />
     <None Include="strings.en" />
-    <None Include="strings.it" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="resource.rc" />
